@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dendijoil. U can call me jol
 - 👀 I’m interested in life
-- 🌱 I’m currently learning code
+- 🌱 I’m currently learning code @hacktiv8
 - 📫 email me on dendijoil@gmail.com 
 
 <!---
