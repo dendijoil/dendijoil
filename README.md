@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dendijoil from Dewata Bali. U can call me jol!
 - 👀 I’m interested in life
-- 🌱 I’m currently learning code @hacktiv8
+- 🌱 Finish the @hacktiv8
 - 📫 email me on dendijoil@gmail.com 
 
 <!---
